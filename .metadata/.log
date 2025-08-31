@@ -1,0 +1,27 @@
+!SESSION 2025-08-31 18:26:24.136 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-31 18:26:34.030
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-31 18:26:34.036
+!MESSAGE Log4j2 initialized with config file /home/ahmad/Documents/freeRTOS/.metadata/.log4j2.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-31 18:26:35.623
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-08-31 18:26:35.630
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-31 18:26:35.925
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-31 18:26:37.211
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.348.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-31 18:26:37.483
+!MESSAGE [Info]	[certificates] Removed 3 expired certificates
